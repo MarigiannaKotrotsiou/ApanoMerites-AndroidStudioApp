@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">ApanoMerites</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password" />
+    <string name="Password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login"><u>Click to Login</u></string>
+    <string name="click_to_register"><u>Click to Register</u></string>
+    <string name="logout">Logout</string>
+    <string name="signup">Sign Up</string>
+    <string name="click_to_signup"><u>Click to Sign Up</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bottom_navigation">Bottom Navigation View </string>
+    <string name="fragment_achievment">Achievements </string>
+    <string name="fragment_map">Map </string>
+    <string name="fragment_tasks">Tasks </string>
+    <string name="fragment_profile">Profile</string>
+    <string name="slide_heading_1">Κάμπος</string>
+    <string name="slide_heading_2">Χαλανδριανή</string>
+    <string name="slide_heading_3">Παπούρι</string>
+    <string name="Kamposbrief">Ο Κάμπος είναι μια περιοχή στο βορειοδυτικό κομμάτι της Σύρου. Υπάρχουν συνολικά 7 tasks σε αυτή την περιοχή.</string>
+    <string name="Xalandrianibrief">Η Χαλανδριανή είναι μικρός οικισμός στη βορειοανατολική πλευρά του νησιού Υπάρχουν συνολικά 5 tasks σε αυτή την περιοχή.</string>
+    <string name="Papouribrief">Το Παπούρι είναι μικρός οικισμός  που βρίσκεται στη βόρεια πλευρά του νησιού (Άνω Μεριά) Υπάρχουν συνολικά 4 tasks σε αυτή την περιοχή.</string>
+    <string name="slide_description_1"> Λίγα σπίτια και μερικές καλλιέργειες απαρτίζουν τον οικισμό του Κάμπου, ο οποίος είναι ο βορειότερος του νησιού. Από εδώ ξεκινάνε μονοπάτια προς τις βορειοδυτικές παραλίες της Σύρου. Ένα από αυτά περνάει λατομείο Μαρμάρου και οδηγεί στα Γράμματα </string>
+    <string name="slide_description_2"> Είναι ενδιαφέρουσα περιοχή για σπουδαστές Γεωμορφολογίας καθώς είναι το μοναδικό μέρος του νησιού που έχει ασβεστολιθικά πετρώματα, σε αντίθεση με το υπόλοιπο νησί που καλύπτεται από ηφαιστειακά πετρώματα. </string>
+    <string name="slide_description_3"> Description3 </string>
+    <string name="slide_description_4"> Προτείνετε να έχετε πάντα μαζί σας νερό, καπέλο και κλειστά παπούτσια. Καλό είναι να ενημερώνεται κοντινά σας άτομα για το που βρίσκεστε και να μην κάνετε τις δραστηριότητες (tasks) μόνοι σας. </string>
+
+    <string name="Kamposbrieddescription">Ο Κάμπος είναι μια περιοχή στο βορειοδυτικό κομμάτι της Σύρου. Υπάρχουν συνολικά 7 tasks σε αυτή την περιοχή.</string>
+
+    <string name="task1title">Μικρός Mελισσοκόμος</string>
+    <string name="task2title">Μικρός Γεωργός</string>
+    <string name="task1description">Βοήθησε τον κύριο Ερρίκο ! Σε αυτό το task θα βοηθήσεις  να μετακινηθεί η τροφή των μελισσών κοντά στα μελίσσια που βρίσκονται στην παραλία της Λίας. Επίσης θα μάθεις ενδιαφέρον facts για την μελισσοκομία, για την οικογένεια που έχει τα μελίσια αλλά και για τον βιότωπο της περιοχής. </string>
+    <string name="task2description">Σε αυτή την αποστολή, θα συμβάλλεις στη φροντίδα των αμπελώνων του κυρίου Ρούσσου, βοηθώντας τον να μετακινήσει την τροφή για τις αμπέλιες του. Επιπλέον, θα ανακαλύψεις ενδιαφέροντα γεγονότα σχετικά με την αμπελοκαλλιέργεια, την οικογένεια που διαχειρίζεται το αμπέλι, και τον πλούτο του βιότοπου στην περιοχή.</string>
+    <string name="taskdisclaimer">Κάνοντας το τάσκ παίρνεις</string>
+    <string name="takepoints">Μετά την επιβεβαίωση διεξαγωγής του task.</string>
+    <string name="esttimefinish">Εκτιμόμενος χρόνος ολοκλήρωσης task:</string>
+    <string name="esttimereturn">Εκτιμόμενος χρόνος επιστροφής στο σημείο εκίννησης:</string>
+    <string name="warning">Προσοχή! Βεβαιωθείτε έχετε τον κατάλληλο εξοπλησμό για την δική σας ασφάλεια.</string>
+
+
+    <string name="odigies">Πλοηγηθείτε προς το πρώτο σημείο. Μόλις φτάσετε σε απόσταση 5 μέτρων θα δονηθεί το κινητό σας. Όταν βρείτε το σημείο θα σας εμφανιστούν οι ανάλογες πληροφορίες</string>
+    <string name="location">Από εδώ θα ξεκινήσετε για να πάτε μέχρι το πρώτο σημείο.</string>
+    <string name="pin1">Στο πρώτο σημείο θα μάθετε κάποιες πληροφορίες για την μελισσοκομία και την οικογένεια που έχει τα μελίσσια</string>
+    <string name="pin2">Από αυτό το σημείο θα συλλέξετε το πακέτο με την τροφή.</string>
+    <string name="pin3">Σε αυτό το σημείο θα μάθετε ακόμα περισσότερα ενδιαφέροντα σχετικά με τον τόπο και την μελισσοκομία</string>
+    <string name="pin4">Στο τελικό σημείο θα αφήσετε το πακέτο με την τροφή. Παραπάνω οδηγίες θα δοθούν στο σημείο.</string>
+
+    <string name="title_activity_maps_task">MapsTaskActivity</string>
+
+    <string name="titlepoint1">Πρώτο σημείο</string>
+    <string name="titlepoint2">Δεύτερο σημείο</string>
+    <string name="titlepoint3">Τρίτο σημείο</string>
+    <string name="titlepoint4">Τέταρτο σημείο</string>
+    <string name="descriptionpoint1">Συγχαρητήρια! Βρήκες το πρώτο σημείο! Σε αυτό το σημείο θα μάθεις κάποια πραγματα σχετικά με την μελισσοκομεία μέσω ενος μικρού Quiz. Αν απαντήσεις σωστα στις ερωτήσεις θα πάρεις κάποιους έξτρα πόντους στο τέλος του Task!</string>
+    <string name="descriptionpoint2">Συγχαρητήρια! Βρήκες το δεύτερο σημείο! Σε αυτό το σημείο θα παραλάβεις ένα πακέτο με την τροφή για τις μέλισσες ωστε να βοηθήσεις τον κύριο Ερρίκο στην δουλειά του</string>
+    <string name="descriptionpoint3">Συγχαρητήρια! Βρήκες το τρίτο σημείο! Σε αυτό το σημείο θα μάθεις κάποια πραγματα σχετικά με την περιοχή του κάμπου μέσω ενος μικρού Quiz. Αν απαντήσεις σωστα στις ερωτήσεις θα πάρεις κάποιους έξτρα πόντους στο τέλος του Task!</string>
+    <string name="descriptionpoint4"> Συγχαρητήρια! Βρήκες το τέταρτο και τελικό σημείο! Αφησε το πακετάκι με την τροφή των μελισσών στα κουτιά πάνω από τα μελίσσια. Ο κύριος Ερρίκος θα ελέγξει αν έχει ολοκληρωθεί σωστά το task στις επόμενες μέρες. Όταν γίνει αυτό θα λάβεις τους πόντους σου</string>
+    <string name="warningtasktitle">Προσοχή!</string>
+    <string name="warningtaskdescription1">Είσαι κοντά στο σημείο!</string>
+    <string name="warningtaskdescription2">Μόλις φτάσεις κοντά στοσημείο θα δονηθεί το κινητό σου.</string>
+    <!-- Similar resources for other regions and slides -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username" />
+
+
+    <string name="slide4_text1">Προτείνετε να έχετε πάντα μαζί σας νερό, καπέλο και κλειστά παπούτσια. Καλό είναι να ενημερώνεται κοντινά σας άτομα για το που βρίσκεστε και να μην κάνετε τις δραστηριότητες (tasks) μόνοι σας.</string>
+    <string name="slide4_text2">Πρέπει να βρίσκεσται στην περιοχή για να ξεκινήσετε τα tasks</string>
+
+    <string name="skipbtn"><u>Skip</u></string>
+    <string name="obtitle1">Γειά σου!</string>
+    <string name="obtitle2">Η Απάνω Μεριά</string>
+    <string name="obtitle3">Στόχος μας</string>
+    <string name="obdesc1">Καλώς ήρθες στους ΑπανωΜερίτες! Ζήσε μια πραγματικά τοπική εμπειρία ακολουθώντας μονοπάτια και συμμετέχοντας σε δραστηριότητες.</string>
+    <string name="obdesc2">Οι ΑπανωΜερίτες είναι μια εφαρμογή της ΚοινΣΕπ Απάνω Μεριά. /n Το όραμα μας είναι να αναδειχθεί ο πλούτος και η ομορφιά του φυσικού και του ανθρωπογενούς περιβάλλοντος του βόρειου κομματιού της Σύρου, γνωστό και ως Απάνω Μεριά. </string>
+    <string name="obdesc3">Στόχος μας είναι οι επισκέπτες της Απάνω Μεριάς να γνωριστούν με την μοναδική φύση και να μάθουν την ιστορία του τόπου, συμβάλλοντας παράλληλα στην κάλυψη των αναγκών της τοπικής κοινότητας.</string>
+
+
+    <string name="visitortitle">Επισκέπτης</string>
+    <string name="visitordesc">Θέλω να μάθω για το περιβάλλον και να κάνω δραστηριότητες που συνεισφέρουν στην τοπική κοινωνία.</string>
+
+    <string name="localtitle">Ντόπιος</string>
+    <string name="localdesc">Θέλω να διαχειριστώ τις δραστηριότητες που έχω τοποθετημένες.</string>
+
+    <string name="instrtitle1">Εξερεύνησε τις δραστηριότητες</string>
+    <string name="instrtitle2">Ανακάλυψε την Απάνω Μεριά</string>
+    <string name="instrtitle3">Σύλλεξε επιβράβευση</string>
+    <string name="instrdesc1">Περιηγήσου στον χάρτη, μάθε για την ιστορία και τη φύση του τόπου, και δες τις διαθέσιμες δραστηριότητες. Έτσι, θα είσαι έτοιμος να επιλέξεις την καλύτερη δραστηριότητα που ταιριάζει στα ενδιαφέροντά σου και στον διαθέσιμο χρόνο σου.</string>
+    <string name="instrdesc2">Επισκέψου την Απάνω Μεριά και βοήθησε την τοπική κοινότητα ολοκληρώνοντας δραστηριότητες. Επέλεξε δραστηριότητα και ξεκίνα! Ακολούθησε τα βήματα, μάθε ενδιαφέροντα και συνδέσου με τον τόπο!</string>
+    <string name="instrdesc3">Αφού επιβεβαιωθεί η ολοκλήρωση της δραστηριότητας από τον ντόπιο, θα λάβεις τους ανάλογους πόντους και εμβλήματα. Αντάλλαξε τους πόντους σου με εκπλήξεις από το κατάστημα της ΚοινΣΕπ!</string>
+
+    <string name="mytaskrowdesc1">Οι επισκέπτες μεταφέρουν βανίλιες στα μελίσσια, στη διαδρομή Κάμπος-Λεία.</string>
+    <string name="mytaskrowdesc2">Οι επισκέπτες βοηθάνε στο πότησμα των αμπελιών.</string>
+
+    <string name="info1">Εδώ μπορείς να δεις όλες τις δραστηριότητες που υπάρχουν στην περιοχή. Πάτα τα pins για να μάθεις παραπάνω πληροφοριίες.</string>
+    <string name="info2">Προσοχή! Δεν μπορείς να ξεκινήσεις μια δραστηριότητα αν δεν βρίσκεσαι στην περιοχή! </string>
+    <string name="info3">Pins δραστηριoτήτων</string>
+    <string name="info4">Μη-ενεργή δραστηριότητα</string>
+    <string name="info5">Έμβλημα. Μετά την ολοκλήρωση του task μπορείς να βρεις τα εμβλήματα που έχεις κεδίσει στο Achievements </string>
+
+</resources>

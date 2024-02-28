@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="beige">#DAD7CD</color>
+    <color name="light_green">#A3B18A</color>
+    <color name="middle_green">#588157</color>
+    <color name="army_green">#3A5A40</color>
+    <color name="dark_green">#344E41</color>
+    <color name="light_main">#F3F1EC</color>
+    <color name="letter_mid">#878680</color>
+    <color name="letter_dark">#42423C</color>
+    <color name="your_color_here">#588157</color>
+    <color name="fragment_bottom_sheet">#00000000</color>
+    <color name="Letters_Mid">#878680</color>
+    <color name="quizz">#DDF5B2</color>
+    <color name="quizz_color">#588157</color>
+    <color name="quizz_btn">#DFDDDA</color>
+    <color name="task_color_btn">#F3F1EC</color>
+    <color name="transparent">#00F3F1EC</color>
+    <color name="progressbarquizz">#3A5A40</color>
+    <color name="transp">#00000000</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_main"
+    tools:context=".profileFragment">
+    
+
+    <ImageView
+        android:id="@+id/imgprofileicon"
+        android:layout_width="147dp"
+        android:layout_height="132dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/visitoricon2"
+        app:layout_constraintBottom_toTopOf="@+id/profileusername"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ImageView
+        android:id="@+id/settings"
+        android:layout_width="25dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:src="@drawable/settings"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <TextView
+        android:id="@+id/profileusername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="315dp"
+        android:layout_marginBottom="26dp"
+        android:text=" "
+        android:textSize="19dp"
+        app:layout_constraintBottom_toTopOf="@+id/imgbgprofile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/editprofbtn"
+        android:layout_width="142dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="180dp"
+        android:text="Edit Profile"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@+id/imgbgprofile" />
+
+    <ImageView
+        android:id="@+id/imgbgprofile"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="31dp"
+        android:src="@drawable/inactiverentagle"
+        app:layout_constraintBottom_toTopOf="@+id/editprofbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profileusername"
+        app:layout_constraintVertical_bias="0.633" />
+
+    <TextView
+        android:id="@+id/profilefname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/imgbgprofile"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/imgbgprofile"
+        app:layout_constraintTop_toTopOf="@+id/imgbgprofile" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="325dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/army_green"
+        app:layout_constraintEnd_toEndOf="@+id/imgbgprofile"
+        app:layout_constraintStart_toStartOf="@+id/imgbgprofile"
+        app:layout_constraintTop_toBottomOf="@+id/profilefname" />
+
+    <TextView
+        android:id="@+id/profileemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/imgbgprofile"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/imgbgprofile"
+        app:layout_constraintTop_toBottomOf="@+id/view" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="325dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/army_green"
+        app:layout_constraintEnd_toEndOf="@+id/imgbgprofile"
+        app:layout_constraintStart_toStartOf="@+id/imgbgprofile"
+        app:layout_constraintTop_toBottomOf="@+id/profileemail" />
+
+    <TextView
+        android:id="@+id/profilesignedin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="32dp"
+        android:text="Date Join"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imgbgprofile"
+        app:layout_constraintEnd_toEndOf="@+id/imgbgprofile"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/imgbgprofile"
+        app:layout_constraintTop_toBottomOf="@+id/view2" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

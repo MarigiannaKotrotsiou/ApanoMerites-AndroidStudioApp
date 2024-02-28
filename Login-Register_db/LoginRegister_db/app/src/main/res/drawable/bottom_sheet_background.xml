@@ -1,0 +1,14 @@
+<!-- res/drawable/bottom_sheet_background.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F3F1EC" />
+    <corners android:topLeftRadius="40dp"
+        android:topRightRadius="40dp" />
+    <padding android:left="40dp"
+        android:right="40dp"
+        android:bottom="50dp"/>
+    <stroke
+        android:width="3dp"
+    android:color="#588157"/>
+
+</shape>
