@@ -19,3 +19,5 @@
 <p>Achievements - Point system</p>
 <p>Quiz</p>
 <p>and more.</p>
+
+<p>The app is not 100% finished</p>
